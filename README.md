@@ -48,17 +48,6 @@ SIM960 and DP50IP; final runs used the PCB's own connectivity with extracted tra
 - Steps to ±7 A settle to 0.1 % in < 4 ms; full reversal in ≈ 4.1 ms.
 - All components below 52 % of rating.
 
-## Repository
-
-| Path | Contents |
-|---|---|
-| `*.kicad_sch`, `*.kicad_pcb`, `*.kicad_pro`, `*.kicad_dru` | Schematic, layout, net classes, custom DRC rules |
-| `schematic_rev2.pdf` | Schematic export |
-| `Rev2_PCBWay_BOM.xlsx` | Assembly BOM (no substitution; DNP parts listed for loose supply) |
-| `Rev2_design_process.tex` | Full design and verification document |
-| `heatsink_top_*`, `top_heatsink_vendor_kit.zip` | Top heatsink model, drilling drawing and hole table |
-| `bottom_plate_solidworks_kit.zip` | Bottom support plate model and hole table |
-
 ## Status
 
 Layout complete, DRC clean. Open items: closed-loop noise measurement, coil temperature rise at 7 A
