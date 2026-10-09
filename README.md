@@ -54,5 +54,5 @@ SIM960 and DP50IP; final runs used the PCB's own connectivity with extracted tra
 
 ## Status
 
-Layout complete, DRC clean. Open items: closed-loop noise measurement, coil temperature rise at 7 A
+Layout complete, DRC clean, in production. Open items: closed-loop noise measurement, coil temperature rise at 7 A
 (+7 A requires < ~29 K rise), coil field constant (G/A) to convert the 1 mG requirement to a current specification.
