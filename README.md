@@ -4,7 +4,9 @@ Linear, bipolar current driver for the magnetic bias coils of a cold-atom MOT ex
 One board per axis (X, Y, Z, MOT); four boards in a 19-inch rack.
 
 Please check [rev2_doc.pdf](rev2_doc.pdf) for full documentation
+
 See also: [Coil-driver-rev2](https://github.com/DavodChuweiLiao/Coil-driver-rev2) for first revision
+
 ![Figure 1](Screenshot%202026-10-07%20132655.png)
 
 ## Specifications
